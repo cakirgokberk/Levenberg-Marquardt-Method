@@ -15,7 +15,7 @@ y = log10(a*x)+3*cos(b*x)                                           ;
 
 
 %% Initial Conditions
-a_init = 0.5                                                        ;       % Baslangic Parametreleri 
+a_init = 0.5                                                        ;       %  Initial Parameters 
 b_init = 0.5                                                        ;
 f_new = (y)' - log10(a_init*x') + cos(b_init*x')                    ;
 max_iter = 25                                                       ;
