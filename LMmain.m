@@ -1,5 +1,5 @@
 % Optimization Theory
-% Class Assignment  - Levenberg Marquardt
+% Levenberg Marquardt
 % 07/01/2021
 
 
